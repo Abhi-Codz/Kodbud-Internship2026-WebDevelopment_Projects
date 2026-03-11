@@ -6,7 +6,7 @@ Just as the name suggests, it's merely half a Blog Page, read the description, y
 
 ![image alt](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/7a6223864716bd192972be23cd336ac128d33155/Task5_BlogPost/Screenshot%202026-03-12%20033652.png)
 
-![image alt]()
+![image alt](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/69cae0e7a93aac7887e61ef376c822a140cb929b/Task5_BlogPost/Screenshot%202026-03-12%20033726.png)
 # Blog Description
 
 As apparent, the project is front-end based. It consists no backend, nor DataBase since the task didn't specify me to lol, however, with the assistance of LLM I could with ease, or with exasperation fixate on this basic newsletter based design. Initially whilst I was developing it felt rather bland, which shouldn't come as a suprise, but by the end I was just slightly satisfied with this. "Just slightly". Oh by the way, the "Subscribe to Newsletter" component doesn't work, it's just there for the design's sake.
