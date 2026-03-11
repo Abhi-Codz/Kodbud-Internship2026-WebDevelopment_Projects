@@ -1,3 +1,11 @@
+# DemiBlog
+
+Just as the name suggests, it's merely half a Blog Page, read the description, you'll know why.. (I intend on later, off of this internship, create my perosnal Blog Page with greater interest).
+
+# Blog Description
+
+As apparent, the project is front-end based. It consists no backend, nor DataBase since the task didn't specify me to lol, however, with the assistance of LLM I could with ease, or with exasperation fixate on this basic newsletter based design. Initially whilst I was developing it felt rather bland, which shouldn't come as a suprise, but by the end I was just slightly satisfied with this. "Just slightly". Oh by the way, the "Subscribe to Newsletter" component doesn't work, it's just there for the design's sake.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
