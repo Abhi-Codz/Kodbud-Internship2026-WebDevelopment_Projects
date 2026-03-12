@@ -2,7 +2,7 @@
 
 Trust me on this, tis' but a mere prototype, I wanted to challenge myself over this task since it's a Fitional Landing Page, in regards to any products.. Hence I decided to constrain myself on developing a website within a certain time-span, with certainly my creative workflow and usage of LLM assistence THROUGH and THROUGH. Keep in touch, as you scroll down to Description Segment.
 
-![GIF](Task2_LandingPage/Gif/kodbud_2.gif)
+![GIF]([Task2_LandingPage/Gif/kodbud_2.gif](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/main/Task2_LandingPage/Gif/kodbud_2.gif))
 # Blog Description
 
 As apparent, the project is front-end based. Again, no DataBase nor a Backend, as a matter of fact even the frontend is merely functionable. 
