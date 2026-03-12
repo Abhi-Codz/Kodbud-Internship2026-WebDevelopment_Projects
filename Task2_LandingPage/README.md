@@ -1,3 +1,15 @@
+# MurdockOptics
+
+Trust me on this, tis' but a mere prototype, I wanted to challenge myself over this task since it's a Fitional Landing Page, in regards to any products.. Hence I decided to constrain myself on developing a website within a certain time-span, with certainly my creative workflow and usage of LLM assistence THROUGH and THROUGH. Keep in touch, as you scroll down to Description Segment.
+
+![image alt](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/28ab4788dbfa88a72f2af38a1d8eef5d24f67155/Task5_BlogPost/Screenshot%202026-03-12%20033710.png)
+# Blog Description
+
+As apparent, the project is front-end based. Again, no DataBase nor a Backend, as a matter of fact even the frontend is merely functionable. 
+Against the task I decided to use React, to add this flavor of refreshment. Not that I'm overconfident. However, because React, for me personally provides a higher and versatile range of functionality to depend upon. 
+
+This barely running webpage is based around Matthew Murdock - The Daredevil, perhaps owning a landing page for his and his firm's new business, selling those crimson colored spectacles. Whilst this one merely contains any content, and fails in delivering a crisp and serene front-end design. I plan on working on it, and creating another folder, for the sake of the last task - Wherein, I'll be improving upon this mess we call a webpage, and redeem my place as a learning developer. It'll but only contain most of the frontend functionalities and UI/UX animations, to make the website look rather attractive and commendable.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
