@@ -5,7 +5,7 @@ Through LLM assistance it was rather easy to also implement certain extra aspect
 
 ![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/main/Task3_GoogleHomePageReplica/kodbud_3.gif)
 
-![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/ce39630a6174054c932ac5355218b61d147a3866/Task2_LandingPage/Screenshot%202026-03-13%20052236.png)
+![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/37d6e3cdb3ba0b4b3b460ff86bfb6aea674c9a03/Task3_GoogleHomePageReplica/Screenshot%202026-03-15%20003300.png)
 # Google Homepage Replica Description
 
 Just a strangely functionable front-end based replica of the google homepage. Yeah, the one that occurs when you type in "google.com".
