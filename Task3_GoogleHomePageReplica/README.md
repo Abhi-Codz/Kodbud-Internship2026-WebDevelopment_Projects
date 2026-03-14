@@ -1,3 +1,17 @@
+# Google Homepage Replica
+
+I made a somewhat of a Front-End functional Google Homepage, with the tools like, yet again React and Vite albiet it wasn't mentioned in the intern-task.. 
+Through LLM assistance it was rather easy to also implement certain extra aspects, such as the 'Theme/Background-Selector', 'Accessible Short-Cut Icons', and that's about it.
+
+![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/main/Task2_LandingPage/Gif/kodbud_2.gif)
+
+![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/ce39630a6174054c932ac5355218b61d147a3866/Task2_LandingPage/Screenshot%202026-03-13%20052236.png)
+# Google Homepage Replica Description
+
+Just a strangely functionable front-end based replica of the google homepage. Yeah, the one that occurs when you type in "google.com".
+Used React and Vite yet again, added a few extra components, it was rather easy and fun at the same time, in contrast to the rest of the TASKS. This could potentially be made better, but again it's a homepage and I believe the UI/UX design of a homepage shalt remain minimal and optimized.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
