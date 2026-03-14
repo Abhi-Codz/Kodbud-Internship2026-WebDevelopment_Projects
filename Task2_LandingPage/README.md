@@ -5,7 +5,7 @@ Trust me on this, tis' but a mere prototype, I wanted to challenge myself over t
 ![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/main/Task2_LandingPage/Gif/kodbud_2.gif)
 
 ![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/ce39630a6174054c932ac5355218b61d147a3866/Task2_LandingPage/Screenshot%202026-03-13%20052236.png)
-# Blog Description
+# Landing Page Description
 
 As apparent, the project is front-end based. Again, no DataBase nor a Backend, as a matter of fact even the frontend is merely functionable. 
 Against the task I decided to use React, to add this flavor of refreshment. Not that I'm overconfident. However, because React, for me personally provides a higher and versatile range of functionality to depend upon. 
