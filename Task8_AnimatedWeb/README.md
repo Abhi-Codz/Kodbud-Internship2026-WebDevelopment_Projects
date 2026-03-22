@@ -2,7 +2,7 @@
 
 Well it seems I was able to make it somewhat attractive, as I mentioned in the Task 2, "somewhat" is fair. Scroll to check the Product Description.
 
-![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/main/Task2_LandingPage/Gif/kodbud_2.gif)
+https://github.com/user-attachments/assets/b56cc7c1-6fc8-4acc-be0c-8829a9126946
 
 ![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/a188c68d2f3152e77e7da689d6147c10446565ea/Task8_AnimatedWeb/LandPage-Screenshots/Screenshot%202026-03-22%20174231.png)
 
