@@ -1,3 +1,22 @@
+# MurdockOptics - Animated
+
+Well it seems I was able to make it somewhat attractive, as I mentioned in the Task 2, "somewhat" is fair. Scroll to check the Product Description.
+
+![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/main/Task2_LandingPage/Gif/kodbud_2.gif)
+
+![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/ce39630a6174054c932ac5355218b61d147a3866/Task2_LandingPage/Screenshot%202026-03-13%20052236.png)
+
+![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/ce39630a6174054c932ac5355218b61d147a3866/Task2_LandingPage/Screenshot%202026-03-13%20052236.png)
+
+![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/ce39630a6174054c932ac5355218b61d147a3866/Task2_LandingPage/Screenshot%202026-03-13%20052236.png)
+# Landing Page Description
+
+As apparent, the project is front-end based. Again, no DataBase nor a Backend, as a matter of fact even the frontend is merely functionable. 
+Against the task I decided to use React, to add this flavor of refreshment. Not that I'm overconfident. However, because React, for me personally provides a higher and versatile range of functionality to depend upon. (To my merit, I didn't change any sentence in here)
+
+This barely running webpage is based around Matthew Murdock - The Daredevil, perhaps owning a landing page for his and his firm's new business, selling those crimson colored spectacles. Whilst this one merely contains any content, it however does barely excel at the tangy animations, suited to my taste, thanks to my brain and LLMs ofcourse.. I MUST admit, for this isn't mobile responsive, I mean not entirely mobile responsive I failed at that. But it's a step up in the front-end design aspect regardless.
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
