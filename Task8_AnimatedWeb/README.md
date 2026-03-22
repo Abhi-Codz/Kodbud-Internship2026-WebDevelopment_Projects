@@ -4,11 +4,11 @@ Well it seems I was able to make it somewhat attractive, as I mentioned in the T
 
 ![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/main/Task2_LandingPage/Gif/kodbud_2.gif)
 
-![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/ce39630a6174054c932ac5355218b61d147a3866/Task2_LandingPage/Screenshot%202026-03-13%20052236.png)
+![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/a188c68d2f3152e77e7da689d6147c10446565ea/Task8_AnimatedWeb/LandPage-Screenshots/Screenshot%202026-03-22%20174231.png)
 
-![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/ce39630a6174054c932ac5355218b61d147a3866/Task2_LandingPage/Screenshot%202026-03-13%20052236.png)
+![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/a188c68d2f3152e77e7da689d6147c10446565ea/Task8_AnimatedWeb/LandPage-Screenshots/Screenshot%202026-03-22%20174249.png)
 
-![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/ce39630a6174054c932ac5355218b61d147a3866/Task2_LandingPage/Screenshot%202026-03-13%20052236.png)
+![](https://github.com/Abhi-Codz/Kodbud-Internship2026-WebDevelopment_Projects/blob/a188c68d2f3152e77e7da689d6147c10446565ea/Task8_AnimatedWeb/LandPage-Screenshots/Screenshot%202026-03-22%20174315.png)
 # Landing Page Description
 
 As apparent, the project is front-end based. Again, no DataBase nor a Backend, as a matter of fact even the frontend is merely functionable. 
